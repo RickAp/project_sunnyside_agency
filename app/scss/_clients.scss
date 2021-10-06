@@ -1,0 +1,48 @@
+.clients{
+
+    &__container{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        text-align: center;
+    }
+
+    &__card{
+        padding: 50px;
+        
+    }
+
+    &__title{
+        font-family: 'Fraunces';
+        color: $darkgrayishBlue;
+        letter-spacing: 0.2rem;
+    }
+
+    &__icon{
+        margin-top: 150px;
+        img{
+            border-radius: 50%;
+        }
+        margin-bottom: 60px;
+    }
+
+    &__text{
+        color: $veryDarkDesaturatedBlue;
+        margin-bottom: 60px;
+        line-height: 1.5;
+    }
+
+    &__name{
+        font-family: 'Fraunces';
+        font-weight: 900;
+        color: $veryDarkDesaturatedBlue;
+        margin-bottom: 10px;
+    }
+
+    &__job{
+        color: $darkgrayishBlue;
+    }
+
+    #cardtwo{
+        margin-top: -22px;
+    }
+}
