@@ -259,7 +259,7 @@ body {
 @media (max-width: 63.9375em) {
   .images__two {
     grid-area: imgone;
-    background-image: url("/images/mobile/image-transform.jpg");
+    background-image: url("../images/mobile/image-transform.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -268,7 +268,7 @@ body {
 
 @media (min-width: 40em) {
   .images__two {
-    background-image: url("/images/desktop/image-transform.jpg");
+    background-image: url("../images/desktop/image-transform.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -278,7 +278,7 @@ body {
 @media (max-width: 63.9375em) {
   .images__three {
     grid-area: imgtwo;
-    background-image: url("/images/mobile/image-stand-out.jpg");
+    background-image: url("../images/mobile/image-stand-out.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -287,7 +287,7 @@ body {
 
 @media (min-width: 40em) {
   .images__three {
-    background-image: url("/images/desktop/image-stand-out.jpg");
+    background-image: url("../images/desktop/image-stand-out.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -357,7 +357,7 @@ body {
 @media (max-width: 63.9375em) {
   .images__five {
     grid-area: imgthree;
-    background-image: url("/images/mobile/image-graphic-design.jpg");
+    background-image: url("../images/mobile/image-graphic-design.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -378,7 +378,7 @@ body {
 
 @media (min-width: 40em) {
   .images__five {
-    background-image: url("/images/desktop/image-graphic-design.jpg");
+    background-image: url("../images/desktop/image-graphic-design.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -399,7 +399,7 @@ body {
 @media (max-width: 63.9375em) {
   .images__six {
     grid-area: imgfour;
-    background-image: url("/images/mobile/image-photography.jpg");
+    background-image: url("../images/mobile/image-photography.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -420,7 +420,7 @@ body {
 
 @media (min-width: 40em) {
   .images__six {
-    background-image: url("/images/desktop/image-photography.jpg");
+    background-image: url("../images/desktop/image-photography.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -495,28 +495,28 @@ body {
 }
 
 .clouds__one {
-  background-image: url("/images/desktop/image-gallery-milkbottles.jpg");
+  background-image: url("../images/desktop/image-gallery-milkbottles.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
 }
 
 .clouds__two {
-  background-image: url("/images/desktop/image-gallery-orange.jpg");
+  background-image: url("../images/desktop/image-gallery-orange.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
 }
 
 .clouds__three {
-  background-image: url("/images/desktop/image-gallery-cone.jpg");
+  background-image: url("../images/desktop/image-gallery-cone.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
 }
 
 .clouds__four {
-  background-image: url("/images/desktop/image-gallery-sugarcubes.jpg");
+  background-image: url("../images/desktop/image-gallery-sugarcubes.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;

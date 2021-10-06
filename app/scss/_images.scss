@@ -95,7 +95,7 @@
 
         @include breakpoint-down(medium){
             grid-area: imgone;
-            background-image: url('/images/mobile/image-transform.jpg');
+            background-image: url('../images/mobile/image-transform.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center center;
@@ -103,7 +103,7 @@
         }
 
         @include breakpoint-up(medium){
-            background-image: url('/images/desktop/image-transform.jpg');
+            background-image: url('../images/desktop/image-transform.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center center;
@@ -119,7 +119,7 @@
 
         @include breakpoint-down(medium){
             grid-area: imgtwo;
-            background-image: url('/images/mobile/image-stand-out.jpg');
+            background-image: url('../images/mobile/image-stand-out.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center center;
@@ -128,7 +128,7 @@
 
         @include breakpoint-up(medium){
 
-            background-image: url('/images/desktop/image-stand-out.jpg');
+            background-image: url('../images/desktop/image-stand-out.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center center;
@@ -209,7 +209,7 @@
         @include breakpoint-down(medium){
             
             grid-area: imgthree;
-            background-image: url('/images/mobile/image-graphic-design.jpg');
+            background-image: url('../images/mobile/image-graphic-design.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center center;
@@ -233,7 +233,7 @@
 
         @include breakpoint-up(medium){
 
-            background-image: url('/images/desktop/image-graphic-design.jpg');
+            background-image: url('../images/desktop/image-graphic-design.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center center;
@@ -260,7 +260,7 @@
         @include breakpoint-down(medium){
             
             grid-area: imgfour;
-            background-image: url('/images/mobile/image-photography.jpg');
+            background-image: url('../images/mobile/image-photography.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center center;
@@ -283,7 +283,7 @@
 
         @include breakpoint-up(medium){
 
-            background-image: url('/images/desktop/image-photography.jpg');
+            background-image: url('../images/desktop/image-photography.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center center;
